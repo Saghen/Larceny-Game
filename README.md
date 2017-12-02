@@ -1,0 +1,2 @@
+# Larceny
+Set in North America, Larceny is a cooperative first person shooter heist game inspired by Overkill’s Payday 2.  The game aims to separate itself in the market through its levelling system (inspired by Skyrim), parkour mechanics, unique levels integrated with distinctive equipment, black market, and notoriety. The game will be built on Epic’s Unreal Engine 4 with an early access planned for mid 2019 at $20 and the final release in mid 2020 for $30. The game will be marketed via IndieDB, Gamebanana, Reddit, Discord, and Steam.
